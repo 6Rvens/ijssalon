@@ -1,4 +1,4 @@
 print("hallo wereld !")
 print("welkom in onze ijssalon")
-print("bus opgelost")
+print("bugs opgelost")
 print("under construction")
